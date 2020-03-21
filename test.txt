@@ -1,4 +1,7 @@
 hello git
 this is new combine branch txt
-
 This is conclict branch 
+this is Combine branch add 
+
+version1.0
+
